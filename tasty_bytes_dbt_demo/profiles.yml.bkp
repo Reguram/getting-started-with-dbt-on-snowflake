@@ -5,8 +5,9 @@ tasty_bytes:
       type: snowflake
       threads: 16
       account: QCYVAPH-UK58402
-      user: Suvarna
+      user: suvarna
       database: TASTY_BYTES_DBT_DB
       warehouse: tasty_bytes_dbt_wh
       schema: raw
       password: Trial@11335599
+      role: accountadmin
